@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# 'Oh Snap' Photography Portfolio
+
+## Description
+***Description coming soon!***
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
