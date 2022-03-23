@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Nav from './components/Nav';
 import About from './components/About';
+import ContactForm from './components/Contact';
 import Gallery from './components/Gallery';
 
 function App() {
@@ -24,10 +25,9 @@ function App() {
         currentCategory={currentCategory}
       ></Nav>
       <main>
-        <div>
+          <ContactForm></ContactForm>
           <Gallery currentCategory={currentCategory}></Gallery>
           <About></About>
-        </div>
       </main>
     </div>
   );
